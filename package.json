@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@types/jest": "^22.2.3",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "reflect-metadata": "^0.1.12",
     "request": "^2.83.0",
     "tracer": "^0.8.12",
